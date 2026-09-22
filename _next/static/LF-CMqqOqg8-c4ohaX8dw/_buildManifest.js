@@ -1,24 +1,21 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/0v-9yfeu3-kre.js"
+    "static/chunks/07r0gk7_pq4ks.js"
   ],
   "/_error": [
-    "static/chunks/0a2r0do-ip451.js"
-  ],
-  "/about": [
-    "static/chunks/43xl_87hs6aa9.js"
+    "static/chunks/20nuv3msr9bmn.js"
   ],
   "/art": [
-    "static/chunks/3lgn4w1e-p1mz.js"
+    "static/chunks/25byex_jxm30_.js"
   ],
   "/blog": [
-    "static/chunks/1ycnlfz1i9ha6.js"
+    "static/chunks/082mp4tj1_h23.js"
   ],
   "/contact": [
     "static/chunks/200del1w39qjs.js"
   ],
   "/posts/[id]": [
-    "static/chunks/1huww7krkn1yk.js"
+    "static/chunks/0x7-k88zv-i_d.js"
   ],
   "__rewrites": {
     "afterFiles": [],
@@ -29,7 +26,6 @@ self.__BUILD_MANIFEST = {
     "/",
     "/_app",
     "/_error",
-    "/about",
     "/art",
     "/blog",
     "/contact",
